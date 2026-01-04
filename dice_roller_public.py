@@ -1,6 +1,3 @@
-# Task: Create a dice roller program that generates a random number based on the d&d dice that is chosen
-# (If d20 is selected, it should generate a random number between 1 and 20. Same with d6, d10, etc.)
-
 import random
 
 def get_input():
